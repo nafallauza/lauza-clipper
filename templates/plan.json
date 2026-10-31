@@ -1,0 +1,27 @@
+{
+  "brand": "lauza",
+  "job": "podcast-clip",
+  "source": null,
+  "format": {"width": 1080, "height": 1920, "fps": 30},
+  "typographyStatus": "proposed",
+  "transcript": {
+    "path": null,
+    "timingLevel": "unknown",
+    "overlapsReviewed": false,
+    "wordAlignmentVerified": false
+  },
+  "sync": {
+    "sourceLipSyncReviewed": false,
+    "videoDelayFrames": 0,
+    "correctionEvidence": null,
+    "previewPath": null,
+    "encodedLipSyncReviewed": false
+  },
+  "shots": [],
+  "captions": [],
+  "effects": [],
+  "sfx": [],
+  "audio": {"voiceLUFS": -16, "musicBelowVoiceLU": 11, "masterLUFS": -14, "truePeakDBTP": -1.5},
+  "validation": {"fontLoaded": false, "safeZonesReviewed": false, "motionReviewed": false, "encodedAudioMeasured": false},
+  "output": null
+}

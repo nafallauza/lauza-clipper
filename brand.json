@@ -1,0 +1,67 @@
+{
+  "brand": "Lauza podcast clipper",
+  "paletteStatus": "approved",
+  "colors": {
+    "accent": "#F4CB46",
+    "background": "#111315",
+    "surface": "#303437",
+    "gray": "#777C80",
+    "mutedText": "#B6BABD",
+    "text": "#FAFAF5"
+  },
+  "typography": {
+    "status": "proposed-awaiting-user-preference",
+    "family": "Montserrat",
+    "captions": {
+      "weight": 800,
+      "sizePx": 64
+    },
+    "labels": {
+      "weight": 700,
+      "sizePx": 48
+    },
+    "punchline": {
+      "weight": 900,
+      "sizePx": 112
+    },
+    "maximumCaptionLines": 2,
+    "minimumWordsPerCaption": 2,
+    "maximumWordsPerCaption": 5,
+    "note": "Font size is a starting point; measure real line widths before rendering.",
+    "fontFiles": {
+      "700": "assets/fonts/Montserrat-Bold.otf",
+      "800": "assets/fonts/Montserrat-ExtraBold.otf",
+      "900": "assets/fonts/Montserrat-Black.otf"
+    }
+  },
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "safeZone": {
+    "minimumBottomExclusionPx": 300,
+    "conservativeBottomExclusionPx": 384,
+    "conservativeTopExclusionPx": 250,
+    "rightRail": {
+      "xMin": 940,
+      "yMin": 864,
+      "yMax": 1536
+    },
+    "essentialText": {
+      "xMin": 80,
+      "xMax": 920,
+      "yMax": 1480
+    }
+  },
+  "audio": {
+    "voiceLUFS": -16,
+    "musicBelowVoiceLU": 11,
+    "masterLUFS": -14,
+    "truePeakDBTP": -1.5
+  },
+  "sync": {
+    "videoDelayFrames": 0,
+    "review": "source-specific; verify against real speech"
+  }
+}

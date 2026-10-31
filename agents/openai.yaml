@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lauza Podcast Clipper"
+  short_description: "Clipper podcast Lauza: visual, timing, motion, dan audio"
+  default_prompt: "Gunakan $lauza-clipper untuk merencanakan dan mengedit klip podcast Lauza dengan prioritas sinkronisasi."
